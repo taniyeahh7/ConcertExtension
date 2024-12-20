@@ -1,1 +1,1 @@
-Chrome extension
+Chrome extension for displaying upcoming concerts.
